@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saimang12/react_basic_01.git/static/css/main.073c9b0a.css",
+    "main.js": "/saimang12/react_basic_01.git/static/js/main.3b6fb31f.js",
+    "static/js/787.fdd6772e.chunk.js": "/saimang12/react_basic_01.git/static/js/787.fdd6772e.chunk.js",
+    "static/media/logo.svg": "/saimang12/react_basic_01.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/saimang12/react_basic_01.git/index.html",
+    "main.073c9b0a.css.map": "/saimang12/react_basic_01.git/static/css/main.073c9b0a.css.map",
+    "main.3b6fb31f.js.map": "/saimang12/react_basic_01.git/static/js/main.3b6fb31f.js.map",
+    "787.fdd6772e.chunk.js.map": "/saimang12/react_basic_01.git/static/js/787.fdd6772e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3b6fb31f.js"
+  ]
+}
